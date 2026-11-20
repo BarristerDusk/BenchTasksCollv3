@@ -1,0 +1,11 @@
+{
+  "id": "coupon-manager",
+  "task_dir": "fan/coupon-manager",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

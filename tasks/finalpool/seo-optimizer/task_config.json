@@ -1,0 +1,11 @@
+{
+  "id": "seo-optimizer",
+  "task_dir": "gyy/seo-optimizer",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "social-publisher",
+  "task_dir": "gyy/social-publisher",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}
