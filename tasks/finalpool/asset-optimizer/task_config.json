@@ -1,0 +1,11 @@
+{
+  "id": "asset-optimizer",
+  "task_dir": "yuxuan/asset-optimizer",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

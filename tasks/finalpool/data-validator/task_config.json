@@ -1,0 +1,11 @@
+{
+  "id": "data-validator",
+  "task_dir": "yuzhen/data-validator",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}
