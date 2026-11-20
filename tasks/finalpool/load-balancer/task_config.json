@@ -1,0 +1,11 @@
+{
+  "id": "load-balancer",
+  "task_dir": "zhaochen/load-balancer",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

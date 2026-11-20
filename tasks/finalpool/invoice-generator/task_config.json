@@ -1,0 +1,11 @@
+{
+  "id": "invoice-generator",
+  "task_dir": "yuzhen/invoice-generator",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

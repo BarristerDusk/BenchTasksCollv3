@@ -1,0 +1,11 @@
+{
+  "id": "proxy-server",
+  "task_dir": "zhaochen/proxy-server",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

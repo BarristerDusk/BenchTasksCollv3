@@ -1,0 +1,11 @@
+{
+  "id": "payment-processor",
+  "task_dir": "yuzhen/payment-processor",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}
