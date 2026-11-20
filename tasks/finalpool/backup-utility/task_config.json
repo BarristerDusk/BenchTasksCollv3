@@ -1,0 +1,11 @@
+{
+  "id": "backup-utility",
+  "task_dir": "xiaochen/backup-utility",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

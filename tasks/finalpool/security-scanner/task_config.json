@@ -1,0 +1,11 @@
+{
+  "id": "security-scanner",
+  "task_dir": "xiaochen/security-scanner",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

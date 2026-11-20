@@ -1,0 +1,11 @@
+{
+  "id": "code-reviewer",
+  "task_dir": "xiaochen/code-reviewer",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

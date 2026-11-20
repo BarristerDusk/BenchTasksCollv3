@@ -1,0 +1,11 @@
+{
+  "id": "search-engine",
+  "task_dir": "wenshuo/search-engine",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

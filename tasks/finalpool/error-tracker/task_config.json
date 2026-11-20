@@ -1,0 +1,11 @@
+{
+  "id": "error-tracker",
+  "task_dir": "xiaochen/error-tracker",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}
