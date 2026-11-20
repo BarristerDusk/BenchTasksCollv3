@@ -1,0 +1,11 @@
+{
+  "id": "order-processor",
+  "task_dir": "junteng/order-processor",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

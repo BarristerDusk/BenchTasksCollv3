@@ -1,0 +1,11 @@
+{
+  "id": "location-tracker",
+  "task_dir": "junxian/location-tracker",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

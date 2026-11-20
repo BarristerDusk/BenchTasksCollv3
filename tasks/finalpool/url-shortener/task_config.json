@@ -1,0 +1,11 @@
+{
+  "id": "url-shortener",
+  "task_dir": "junxian/url-shortener",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}
