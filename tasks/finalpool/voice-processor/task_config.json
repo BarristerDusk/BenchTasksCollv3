@@ -1,0 +1,11 @@
+{
+  "id": "voice-processor",
+  "task_dir": "lv/voice-processor",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

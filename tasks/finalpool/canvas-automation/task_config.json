@@ -1,0 +1,11 @@
+{
+  "id": "canvas-automation",
+  "task_dir": "ruige/canvas-automation",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

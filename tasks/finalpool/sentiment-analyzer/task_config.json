@@ -1,0 +1,11 @@
+{
+  "id": "sentiment-analyzer",
+  "task_dir": "lv/sentiment-analyzer",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}
