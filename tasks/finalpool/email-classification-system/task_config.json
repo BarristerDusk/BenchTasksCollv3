@@ -1,0 +1,11 @@
+{
+  "id": "email-classification-system",
+  "task_dir": "jl/email-classification-system",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

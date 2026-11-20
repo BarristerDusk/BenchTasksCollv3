@@ -1,0 +1,11 @@
+{
+  "id": "thumbnail-creator",
+  "task_dir": "haoze/thumbnail-creator",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

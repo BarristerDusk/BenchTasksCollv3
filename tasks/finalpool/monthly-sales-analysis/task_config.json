@@ -1,0 +1,11 @@
+{
+  "id": "monthly-sales-analysis",
+  "task_dir": "jl/monthly-sales-analysis",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

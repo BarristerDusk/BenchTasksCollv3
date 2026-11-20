@@ -1,0 +1,11 @@
+{
+  "id": "subtitle-generator",
+  "task_dir": "haoze/subtitle-generator",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

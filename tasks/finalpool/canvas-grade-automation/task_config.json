@@ -1,0 +1,11 @@
+{
+  "id": "canvas-grade-automation",
+  "task_dir": "jl/canvas-grade-automation",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}
