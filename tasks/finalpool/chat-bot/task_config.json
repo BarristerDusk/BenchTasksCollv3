@@ -1,0 +1,11 @@
+{
+  "id": "chat-bot",
+  "task_dir": "lv/chat-bot",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

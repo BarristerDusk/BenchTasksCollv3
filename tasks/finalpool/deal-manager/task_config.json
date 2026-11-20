@@ -1,0 +1,11 @@
+{
+  "id": "deal-manager",
+  "task_dir": "lueyang/deal-manager",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}

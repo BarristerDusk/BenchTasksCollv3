@@ -1,0 +1,11 @@
+{
+  "id": "feedback-collector",
+  "task_dir": "lv/feedback-collector",
+  "needed_mcp_servers": [
+    "filesystem"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ],
+  "status": "implemented"
+}
